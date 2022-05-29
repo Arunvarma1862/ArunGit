@@ -6,5 +6,6 @@ public class pratice2 {
 	System.out.println("hello6");
 	System.out.println("hello6");
 	System.out.println("hello6");
+	System.out.println("123456");
 }
 }
