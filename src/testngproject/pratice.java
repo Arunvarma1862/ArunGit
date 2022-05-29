@@ -16,6 +16,13 @@ public class pratice {
 		System.out.println("hello3");
 		System.out.println("hello4");
 		System.out.println("hello5");
+		
+		System.out.println("hello6");
+		System.out.println("hello6");
+		System.out.println("123456");
+		System.out.println("demo");
+		
+		
 		System.out.println("hello6");
 		System.out.println("hello6");
 		System.out.println("hello6");
@@ -27,5 +34,7 @@ public class pratice {
 		
 		
 		System.out.println("123456");
+		
+		System.out.println("123456789655665545");
 	}
 }
